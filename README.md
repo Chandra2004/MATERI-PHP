@@ -1,0 +1,4 @@
+- membuat fitur login/register
+- membuat 2 data json > users.json & billings.json
+- ADMIN > CRUD
+- GUEST > READ & Pesan (menu)
