@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "file": "file-upload\/1-updated.png",
+        "name": "farrel",
+        "email": "farrel@gmail.com",
+        "phone": "8080"
+    },
+    {
+        "id": 2,
+        "file": "file-upload\/2-updated.png",
+        "name": "kuyang",
+        "email": "kuyang@gmail.com",
+        "phone": "010101"
+    },
+    {
+        "id": 3,
+        "file": "..\/file-upload\/3-updated.jpg",
+        "name": "kijang",
+        "email": "kijang@gmail.com",
+        "phone": "686767"
+    }
+]
